@@ -1,0 +1,6 @@
+torch=='1.12.1.post200'
+torchvision=='0.13.0a0+8069656'
+timm=='0.4.12'
+tensorboardX=='2.5.1'
+ptflops
+six
