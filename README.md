@@ -3,6 +3,8 @@ Official code to train and evaluate, as well as the pretrained models for [Restr
 
 Restructurable Activation Networks (RANs) achieve state-of-the-art accuracy on ImageNet across multiple scales and multiple types of hardware ranging from micro-NPUs to datacenter CPUs.
 
+This work was presented at an _Arm AI Virtual Tech Talk_. The recorded talk can be found [here](https://www.youtube.com/watch?v=EUqFNE28Kq4).
+
 ### Directories
 
 - `RAN_e/` contains code for RAN-explicit
