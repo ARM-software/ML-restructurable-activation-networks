@@ -9,7 +9,7 @@ Restructurable Activation Networks (RANs) achieve state-of-the-art accuracy on I
 - `RAN_i/` contains code for RAN-implicit
 - `pretrained/` contains the pretrained weights for these models
 
-<img src="RANs_summary.png" alt="Restructurable Activation Networks (RANs) achieve state-of-the-art accuracy on ImageNet across multiple scales and multiple types of hardware." style="width:400px;"/>
+<img src="RANs_summary.png" alt="Restructurable Activation Networks (RANs) achieve state-of-the-art accuracy on ImageNet across multiple scales and multiple types of hardware." style="width:1300px;"/>
 
 
 ## Pretrained Weights
